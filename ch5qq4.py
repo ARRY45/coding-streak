@@ -1,5 +1,8 @@
-A = {1, 2, 3}
-B = {3, 4, 5}
+a = int(input("Enter first number :"))
+b = int(input("Enter second number :"))
 
-print(A | B)
-# {1, 2, 3, 4, 5}
+a, b = b,a
+
+print("swapping numbers...")
+print("First number = ",a)
+print("second number = ",b)
