@@ -1,0 +1,7 @@
+usename = input("ENTER YOUR USERNAME :")
+
+if (len(usename)>10):
+    print("YES THIS USERNAME CONTAINS LETTERS MORE THAN TEN ")
+
+else:
+    print("NO THIS USERNAME DOESNT CONTAIN MORE LETTERS THAN 10")
