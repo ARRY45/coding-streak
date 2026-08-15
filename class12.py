@@ -5,7 +5,7 @@ c = int(input("Enter third number : "))
 if a >= b and a >= c :
     print("FIRST NUMBER IS GREATEST")
 
-elif b >= a and b >= c:
+elif b >= a and b >= c :
     print("SECOND NUMBER IS GREATEST")
 
 else:
